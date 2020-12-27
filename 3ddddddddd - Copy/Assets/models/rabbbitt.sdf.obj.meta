@@ -1,32 +1,17 @@
 fileFormatVersion: 2
-guid: c37eff8e6b8420d44817726ae3d44db5
-timeCreated: 1607198212
+guid: f368935832ce99d40b9b7c2591b7453b
+timeCreated: 1609099296
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Cube
-    100004: Cube_(Copy)
-    100006: Cube_(Copy)_(Copy)
-    100008: Cube_(Copy)_(Copy)_(Copy)
-    400000: //RootNode
-    400002: Cube
-    400004: Cube_(Copy)
-    400006: Cube_(Copy)_(Copy)
-    400008: Cube_(Copy)_(Copy)_(Copy)
-    2300000: Cube
-    2300002: Cube_(Copy)
-    2300004: Cube_(Copy)_(Copy)
-    2300006: Cube_(Copy)_(Copy)_(Copy)
-    3300000: Cube
-    3300002: Cube_(Copy)
-    3300004: Cube_(Copy)_(Copy)
-    3300006: Cube_(Copy)_(Copy)_(Copy)
-    4300000: Cube
-    4300002: Cube_(Copy)
-    4300004: Cube_(Copy)_(Copy)
-    4300006: Cube_(Copy)_(Copy)_(Copy)
+    100000: default
+    100002: //RootNode
+    400000: default
+    400002: //RootNode
+    2300000: default
+    3300000: default
+    4300000: default
   materials:
     importMaterials: 1
     materialName: 0

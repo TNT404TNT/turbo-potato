@@ -1,17 +1,32 @@
 fileFormatVersion: 2
-guid: 7e01f001ccebf614c82244ca1a7bb2ff
-timeCreated: 1608368176
+guid: b22f09a190cb1c34ea3c62b1d96ee474
+timeCreated: 1609099295
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
-    100002: mesh_1_3443wujkugbyictuefvboglhjxdfkv_dyi
+    100002: Cube
+    100004: Cube_(Copy)
+    100006: Cube_(Copy)_(Copy)
+    100008: Cube_(Copy)_(Copy)_(Copy)
     400000: //RootNode
-    400002: mesh_1_3443wujkugbyictuefvboglhjxdfkv_dyi
-    2300000: mesh_1_3443wujkugbyictuefvboglhjxdfkv_dyi
-    3300000: mesh_1_3443wujkugbyictuefvboglhjxdfkv_dyi
-    4300000: mesh_1_3443wujkugbyictuefvboglhjxdfkv_dyi
+    400002: Cube
+    400004: Cube_(Copy)
+    400006: Cube_(Copy)_(Copy)
+    400008: Cube_(Copy)_(Copy)_(Copy)
+    2300000: Cube
+    2300002: Cube_(Copy)
+    2300004: Cube_(Copy)_(Copy)
+    2300006: Cube_(Copy)_(Copy)_(Copy)
+    3300000: Cube
+    3300002: Cube_(Copy)
+    3300004: Cube_(Copy)_(Copy)
+    3300006: Cube_(Copy)_(Copy)_(Copy)
+    4300000: Cube
+    4300002: Cube_(Copy)
+    4300004: Cube_(Copy)_(Copy)
+    4300006: Cube_(Copy)_(Copy)_(Copy)
   materials:
     importMaterials: 1
     materialName: 0

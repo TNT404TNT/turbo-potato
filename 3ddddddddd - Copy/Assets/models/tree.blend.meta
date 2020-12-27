@@ -1,17 +1,10 @@
 fileFormatVersion: 2
-guid: fb9e8f90d934f12469b29803e1e95a21
-timeCreated: 1607198289
+guid: 05e6cafd9fabed3479c8cd5e8a67c273
+timeCreated: 1609099293
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: Pyramid
-    400000: //RootNode
-    400002: Pyramid
-    2300000: Pyramid
-    3300000: Pyramid
-    4300000: Pyramid
+  fileIDToRecycleName: {}
   materials:
     importMaterials: 1
     materialName: 0
@@ -76,7 +69,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
